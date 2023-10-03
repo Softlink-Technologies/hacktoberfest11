@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+  
+### Name: [Sachin](https://github.com/sachin-fullstack)
+- Place: Rajasthan, India
+- Bio: software Developer
+- Github:[sachin-fullstack](https://github.com/sachin-fullstack)
