@@ -1,26 +1,25 @@
-# Aayush Sharma
+# Sachin Singhal
 
 ### Location
 
-Mandi, Himachal Pradesh, India
+Rajasthan, India
 
 ### Academics
 
-Indian Institute of Technology, Mandi
+SKIT, Jaipur
 
 ### Interests
 
-- Mathematics.
+- Computer
 
 ### Development
 
-- Restricted Boltzman Machine.
-- Support Vector Machine.
-
+- Web Development.
+  
 ### Projects
 
 - Aawaz - A sign language to voice convertor glove for mute people.
 
 ### Profile Link
 
-[Aayush Sharma](https://github.com/aayusharma)
+[sachin-fullstack](https://github.com/sachin-fullstack)
